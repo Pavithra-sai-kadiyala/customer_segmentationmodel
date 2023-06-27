@@ -1,2 +1,2 @@
 # customer_segmentationmodel
-customers are divided into subgroups. So that they can be approached with different marketing strategies for fidelised in a different manner.
+Clusters customers into subgroups in such a way that they can be approached with different marketing strategies and improve business.
